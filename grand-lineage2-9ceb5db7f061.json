@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grand-lineage2",
+  "private_key_id": "9ceb5db7f06109db46131a4e20e56bba1616cdbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDuPSI8XDil4AbF\nFDGjlqsDAoTJsK/V/9CnzOyXd1ykMVLw7LCKKvnRnsudNNLNsKitYe1zMnGEFF5J\nicZHU/YTO5j3/lkHqWmi1VsUYtnCmXftHJcCfveZsZqheqvdxVz2xI8HXgIAry6c\nodjo6zzFH/zK3TTkOO2XXt8kg7q/Kuh0CyuMYridRQZhsIhEba2Y+SFzTS60hydg\nXiIjcEOVRJn+EC41bgRg30oE/JDGrJ24spy6mLSmYHTSpiTrRSgV6d/bskT9Y1pe\nAcMG3px+oxFZ/RbPx8NBL4JuWzyxdIprN2XKHoWaJy06Hg63dugQK3GO92UwFoFI\nhUwggY99AgMBAAECggEABeyrvIRVY6LiWDbp+pGBIDQiuylq6KtNjbBPjG4xsY2a\nMLlExjtfspM8htO5wvlihLpZZ+O8rjQTER4Y9bLvDgPabsEpqQbAAFM1OTJkx7pC\nsexBuLaI/sHUFfXeXa39OM/FIqhEMGqiTr5BnxW85rUeCJiFmZEPYvpybyP+jWMG\nhV75sgGTOGXLO9EsgoyS9VSLfHqRykOcSTS9lLsrZLt7DK2wKRJ2yO6dU8EUVIUk\ng6+WaP1qgrd3QaxvhxyYU7qmYIqauzjY8pjlRtvzDS5TSEdfz/qHPpPRBb9tiIcT\nvram3TEEzXCRRWRxvpK27lGVv6VutwxHSy+SodhaewKBgQD/YyExSWez3birabhs\nuYW4kKPLXq8zpZlLm2b7KFmoscXicwqAYHJn4adt+1KLZjhSMcXzTq8GYxagqBrq\n/Ddnpc7WGmbhK1po/zUpy+TO7sQHLgMlX2Vm3gRvLKTCjpWNFOjLVheLLQVGhbV3\nb2tzD5rxoOffoTDY2g2ctLcOLwKBgQDuz3iCi49xPaiScl5AP4A2HqCdotz38ArW\nMMeHQhhe8+c35yRwb8C+zv4pKvVWREIDp38wkyGJly1ECoxgxDW2H+UXZrdGcViy\nKmrfxp0exuDWEC+GEW35zJ2MWSgW0VdCAKSB5oIYv7J6oucHCMO8FyD4HvI46vYb\nn0g1Ul4eEwKBgG2YQLpB4frR/1mv+LDPvI7Do0a2z0C+o9ZKThsh6bf28hCHhc4p\nlW726z7LR1UC/NBpA6Wx8nIvO5qeCU8mBTC5etVuZw/h5t6ABnR1Ry92TzE1kawM\nEBvg0s5SvjGvtoXgnzYDL/9NxqHI52LlsZqi678daeQR7EBi8sx40MWJAoGAaiwh\nZuDHYFBKbvmb/7J7vRP20r7CwRSerMW5H+B511VW2hrQr5BvwCVlCEaKFtV4CAni\n2WTAh1yICnUqHid9vcAGaVYIa7Ae/+8t3tl9p15CPcmqZ0++dk3LSceltCdURQrm\nGL6z3m7z2eQtFIqIA0rBJK8Vf8quqm8xektpfrMCgYEAiCLyRSba/+hmvjXdkHWy\nx7DEqbJx1nwZWCJDxe7Tw4Nk0o09MpiRT3eGa//kEZbrXktgbJQ1LrkX+ePMh6R5\nzqLvDy5zquO9/LqO0/hjBG16PduDKekvnmjy3tpi+2sff7sa7CVXEyJB9gcYdx9s\nCCodWb79Npw0ctHJiAtTIBo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lineage2m-jungsan@grand-lineage2.iam.gserviceaccount.com",
+  "client_id": "114595889129261057485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lineage2m-jungsan%40grand-lineage2.iam.gserviceaccount.com"
+}
